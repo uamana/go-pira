@@ -1,7 +1,8 @@
 # go-pira
 
-Golang interface to Pira P275 FM Analyzer
+Golang interface to Pira P275 FM Analyzer. 
 
+Work in progress.
 
 ## Building
 
